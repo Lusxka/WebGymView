@@ -137,94 +137,6 @@ graph TB
 
 ---
 
-## 🚀 **Começando**
-
-### **Pré-requisitos**
-```bash
-Node.js >= 18.0.0
-npm >= 9.0.0
-```
-
-### **Instalação Rápida**
-
-```bash
-# 1️⃣ Clone o repositório
-git clone https://github.com/Lusxka/WebGymView.git
-
-# 2️⃣ Navegue até a pasta
-cd WebGymView
-
-# 3️⃣ Instale as dependências
-npm install
-
-# 4️⃣ Configure as variáveis de ambiente
-cp .env.example .env.local
-# Edite o arquivo .env.local com suas chaves
-
-# 5️⃣ Execute o projeto
-npm run dev
-```
-
-### **Variáveis de Ambiente**
-
-```env
-# Supabase
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_key
-
-# Google Gemini AI
-VITE_GEMINI_API_KEY=your_gemini_key
-
-# App Settings
-VITE_APP_URL=http://localhost:3000
-```
-
----
-
-## 📸 **Screenshots**
-
-<div align="center">
-
-### 🌙 **Modo Escuro**
-![Dark Mode](https://via.placeholder.com/800x450/1e293b/f1f5f9?text=WebGym+Dark+Mode+🌙)
-
-### ☀️ **Modo Claro**
-![Light Mode](https://via.placeholder.com/800x450/f8fafc/1e293b?text=WebGym+Light+Mode+☀️)
-
-### 📱 **Responsivo**
-<img src="https://via.placeholder.com/300x600/6366f1/ffffff?text=Mobile+View+📱" width="250">
-
-</div>
-
----
-
-## 🎯 **Roadmap**
-
-- [x] **Fase 1**: Autenticação e perfil básico
-- [x] **Fase 2**: Integração com IA para planos
-- [x] **Fase 3**: Dashboard e tracking
-- [x] **Fase 4**: Modo escuro/claro
-- [ ] **Fase 5**: Integração com wearables 📱
-- [ ] **Fase 6**: Comunidade e social 👥
-- [ ] **Fase 7**: App mobile nativo 📲
-- [ ] **Fase 8**: Planos premium 💎
-
----
-
-## 🤝 **Contribuindo**
-
-Contribuições são **sempre bem-vindas**! Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes.
-
-### **Como Contribuir**
-
-1. 🍴 **Fork** o projeto
-2. 🌿 Crie uma **branch** para sua feature (`git checkout -b feature/AmazingFeature`)
-3. ✅ **Commit** suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 **Push** para a branch (`git push origin feature/AmazingFeature`)
-5. 🔄 Abra um **Pull Request**
-
----
-
 ## 📝 **Licença**
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
@@ -243,14 +155,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-### 💪 **Construído com paixão por fitness e tecnologia**
 
 **Se este projeto te ajudou, considere dar uma ⭐!**
 
 </div>
 
----
 
-<div align="center">
-<sub>🏋️‍♂️ WebGym - Transforme sua jornada fitness com IA personalizada • 2024</sub>
-</div>
